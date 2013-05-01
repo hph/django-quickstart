@@ -4,6 +4,10 @@ django-quickstart
 Empty django project with a pre-configured sqlite3 database to test or start 
 developing new apps in a few seconds.
 
+**Setup**
+
+    git clone git@github.com:hph/django-quickstart.git && cd django-quickstart
+    sudo pip install -r requirements.txt
 
 **Directory**
     
